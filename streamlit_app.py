@@ -19,7 +19,7 @@ def read_data(file):
         return pd.read_excel(file)
 
 def extract_code_content(text):
-    match = re.search(r"```python\n(.*)\n```", text, flags=re.DOTALL)
+    match = re.search(r"```python\n(.*)\n```", text, flags=re.DOT
     if match:
         return match.group(1)
     else:
