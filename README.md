@@ -1,7 +1,7 @@
-# DataChat README
+# DataChat 🤖
 
 ## Overview
-DataChat is a Streamlit app that allows users to input CSV or Excel files and interact with an AI chatbot to get information about their data. Users can plot the data, obtain results, and download the processed data.
+DataChat is a Streamlit app that allows users to input CSV or Excel files and interact with an AI chatbot to get information about their data. Users can plot the data, obtain results, and download the processed data. Powered by Google's Gemini✨
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datachatio.streamlit.app/)
 
